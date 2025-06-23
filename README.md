@@ -1,8 +1,8 @@
 # back-endBlog
 
-##Cosas  para hacer:
+#Cosas  para hacer:
 - Pedir API
 
-##Tecnologías
+#Tecnologías
 - Python
 - ya ta
